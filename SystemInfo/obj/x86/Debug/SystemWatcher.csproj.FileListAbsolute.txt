@@ -1,0 +1,11 @@
+C:\PROJECTS\SystemWatcher\SystemWatcher\bin\Debug\SystemWatcher.exe
+C:\PROJECTS\SystemWatcher\SystemWatcher\bin\Debug\SystemWatcher.pdb
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.Properties.Resources.resources
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.csproj.GenerateResource.Cache
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.exe
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.pdb
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.Library.Controls.ControlDriveInfo.resources
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.Library.Controls.ExtendedLabel.resources
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.Library.Controls.ControlNetworkInterfaceInfo.resources
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.FormMain.resources
+C:\PROJECTS\SystemWatcher\SystemWatcher\obj\x86\Debug\SystemWatcher.csprojResolveAssemblyReference.cache

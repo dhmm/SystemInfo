@@ -1,0 +1,2 @@
+C:\Users\Moutlou\Desktop\SystemInfo\SystemInfo\obj\x86\Debug\SystemWatcher.exe
+C:\Users\Moutlou\Desktop\SystemInfo\SystemInfo\obj\x86\Debug\SystemWatcher.pdb
